@@ -11,15 +11,6 @@ This application fetches patient data from a healthcare API, analyzes risk facto
 
 ## Features
 
-- 📊 **Real-time Patient Monitoring** - Paginated table displaying patient vital signs and medical data
-- 🚨 **Automated Risk Analysis** - Identifies high-risk patients based on:
-  - Blood pressure levels (Normal, Elevated, Stage 1, Stage 2 Hypertension)
-  - Temperature readings (Normal, Low Fever, High Fever)
-  - Age demographics (Under 40, 40-65, Over 65)
-- 🔔 **Smart Alerts** - Dynamic alert system showing:
-  - High-risk patients (risk score ≥4)
-  - Patients with fever (≥99.6°F)
-  - Data quality issues (missing/invalid data)
 - 📄 **Pagination** - Navigate through large patient datasets (20 records per page)
 - ⚡ **Global State Management** - Centralized loading and error handling
 
